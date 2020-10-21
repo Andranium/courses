@@ -1,0 +1,107 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Bitcoin",
+      "description": "best of the best",
+      "price": "9000",
+      "date": "2020-10-29"
+    },
+
+    {
+      "id": 2,
+      "name": "Monero",
+      "description": "Not bad at all",
+      "price": "78",
+      "date": "2020-10-29"
+    },
+
+    {
+      "id": 3,
+      "name": "LitCoin",
+      "description": "pretty nice crypto",
+      "price": "1200",
+      "date": "2020-10-29"
+    },
+
+    {
+      "id": 4,
+      "name": "XRP",
+      "description": "OK",
+      "price": "500",
+      "date": "2020-10-29"
+    },
+
+    {
+      "id": 5,
+      "name": "DashCoin",
+      "description": "DashCoin -- something unknown",
+      "price": "300",
+      "date": "2020-10-29"
+    },
+
+    {
+      "id": 6,
+      "name": "Ethereum",
+      "description": "Ethereum -- popular crypto",
+      "price": "1200",
+      "date": "2020-10-29"
+    },
+
+    {
+      "id": 7,
+      "name": "QTUM",
+      "description": "unknown crypto",
+      "price": "1200",
+      "date": "2020-10-29"
+    },
+
+    {
+      "id": 8,
+      "name": "Cosmos (ATOM)",
+      "description": "crypto",
+      "price": "1200",
+      "date": "2020-10-29"
+    },
+
+    {
+      "id": 9,
+      "name": "EOS",
+      "description": "EOS -- crypto",
+      "price": "1200",
+      "date": "2020-10-29"
+    },
+
+    {
+      "id": 10,
+      "name": "EOS2",
+      "description": "EOS -- crypto1212",
+      "price": "1200",
+      "date": "2020-10-29"
+    },
+
+    {
+      "id": 11,
+      "name": "EOS3",
+      "description": "EOS -- 54645",
+      "price": "1200",
+      "date": "2020-10-29"
+    },
+
+    {
+      "id": 12,
+      "name": "EOS4",
+      "description": "EOS -- cryp4545to",
+      "price": "1200",
+      "date": "2020-10-29"
+    },
+
+    {
+      "id": 13,
+      "name": "EOS5",
+      "description": "EOS -- crypt4254o",
+      "price": "1200",
+      "date": "2020-10-29"
+    }
+  ]
+}
